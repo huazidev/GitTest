@@ -1,8 +1,3 @@
 # GitTest
 
-- first
-- second
-- third
-
-- 4444
-- 555
+this is a reposotory to learn git.
